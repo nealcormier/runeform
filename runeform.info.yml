@@ -1,0 +1,8 @@
+name: Runeform
+description: Runbeck Form Module to accompany RB Views Product Filter.
+core: 8.x
+package: Custom
+dependencies: 
+- node
+
+type: module

@@ -1,0 +1,7 @@
+rune_form.form:
+  path: '/runeform/clientform'
+  defaults: 
+    _title: 'Runebeck Form Filter'
+    _form: '\Drupal\runeform\Form\RuneForm'
+  requirements: 
+    _permission: 'access content'
